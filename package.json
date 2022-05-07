@@ -1,0 +1,24 @@
+{
+  "name": "imba",
+  "version": "0.0.1",
+  "description": "web site oficial imba",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "nodemon": " nodemon app.js"
+  },
+  "keywords": [
+    "imba",
+    "oficial web",
+    "page oficial"
+  ],
+  "author": "imba",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "hbs": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

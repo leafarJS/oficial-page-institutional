@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "titulo": "producto 1",
+    "moneda": "BOB/kg",
+    "precio": 10.99,
+    "img": "../assets/1.png",
+    "descr": "Caracteristicas del producto ficha tecnica",
+    "prom": "Haz tu pedido"
+  },
+  {
+    "id": 2,
+    "titulo": "producto 2",
+    "moneda": "BOB/kg",
+    "precio": 10.99,
+    "img": "../assets/2.png",
+    "descr": "Caracteristicas del producto ficha tecnica",
+    "prom": "Hasta agotar Stock"
+  },
+  {
+    "id": 3,
+    "titulo": "producto 3",
+    "moneda": "BOB/kg",
+    "precio": 10.99,
+    "img": "../assets/3.png",
+    "descr": "Caracteristicas del producto ficha tecnica",
+    "prom": "Valido solo para SC"
+  },
+  {
+    "id": 4,
+    "titulo": "producto 4",
+    "moneda": "BOB/kg",
+    "precio": 99.99,
+    "img": "../assets/4.png",
+    "descr": "Caracteristicas del producto ficha tecnica",
+    "prom": "Haz tu pedido"
+  },
+  {
+    "id": 5,
+    "titulo": "producto 5",
+    "moneda": "BOB/kg",
+    "precio": 18.99,
+    "img": "../assets/5.jpg",
+    "descr": "Caracteristicas del producto ficha tecnica",
+    "prom": "Promoción de la semana"
+  },
+  {
+    "id": 6,
+    "titulo": "producto 6",
+    "moneda": "BOB/kg",
+    "precio": 10.99,
+    "img": "../assets/6.png",
+    "descr": "Caracteristicas del producto ficha tecnica",
+    "prom": "Haz tu pedido"
+  }
+]
